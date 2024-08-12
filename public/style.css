@@ -1,0 +1,31 @@
+body{
+    margin-left: 20px;
+}
+.Heading{
+    text-align: center;
+}
+.chat{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 16px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.message{
+    background-color: dodgerblue;
+    font-style: italic;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.editbtn{
+    border-radius: 15px;
+    background-color: aliceblue;
+}
+.dltbtn{
+    border-radius: 15px;
+    background-color: aliceblue;
+}
